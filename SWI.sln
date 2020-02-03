@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29721.120
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwipeViewIssue.Android", "SwipeViewIssue\SwipeViewIssue.Android\SwipeViewIssue.Android.csproj", "{DA81CBE3-4B89-48CE-9CD0-0449A276D93B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwipeViewIssue", "SwipeViewIssue\SwipeViewIssue\SwipeViewIssue.csproj", "{4FC45237-77F8-47F2-9BEE-BFAC21FF4C74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA81CBE3-4B89-48CE-9CD0-0449A276D93B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA81CBE3-4B89-48CE-9CD0-0449A276D93B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA81CBE3-4B89-48CE-9CD0-0449A276D93B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DA81CBE3-4B89-48CE-9CD0-0449A276D93B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA81CBE3-4B89-48CE-9CD0-0449A276D93B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA81CBE3-4B89-48CE-9CD0-0449A276D93B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4FC45237-77F8-47F2-9BEE-BFAC21FF4C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC45237-77F8-47F2-9BEE-BFAC21FF4C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC45237-77F8-47F2-9BEE-BFAC21FF4C74}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4FC45237-77F8-47F2-9BEE-BFAC21FF4C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC45237-77F8-47F2-9BEE-BFAC21FF4C74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FC45237-77F8-47F2-9BEE-BFAC21FF4C74}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A405439-DC1E-4C53-8E77-3C49E513CE5E}
+	EndGlobalSection
+EndGlobal
